@@ -1,1 +1,2 @@
-# israel-hamas
+# Israel-Hamas Reddit Dataset
+
