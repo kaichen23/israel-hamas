@@ -1,0 +1,4 @@
+Evaluate the content of the Wikipedia page titled "{}" to determine if it is related to the "{}". Consider the page name and the first 100 words of the content. Output only YES if the content is related to the war; otherwise, output NO.
+
+First 100 words:
+{}

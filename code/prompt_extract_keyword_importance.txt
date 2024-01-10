@@ -1,0 +1,4 @@
+Please analyze the provided text chunk from the Wikipedia page about the '{}' Your task is to extract keywords that are directly related to this topic. Each keyword should be no longer than three tokens. After identifying these keywords, evaluate their importance for the purpose of social media message filtration. Rate each keyword's importance on a scale from 0 to 5, where 0 means the keyword is least important and 5 means it is extremely important for filtering messages. Present the output as a list of keyword-importance pairs, separated by commas. Format each pair with the keyword followed by a colon and its importance rating. For example, 'keyword1: 4, keyword2: 2.' The output should be a continuous string text without any line breaks ('\n') or bullet points.
+
+Text:
+{}
