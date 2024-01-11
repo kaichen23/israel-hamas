@@ -31,7 +31,12 @@
 - parent_id: last level comment or submission
 
 ### Conversations
-Each conversation includes one submission with comments. The attribute "comments_df" in the dataset includes all comments information related to the conversation.
+Each conversation includes one submission with comments.
+
+**Attribute**
+- comments_df: All comments information in the conversation
+- freepalestine_islamophobia: 0 or 1. 1 means this conversation is related to Free palestine/islamophobia topic.
+- zionism_antisemitism
 
 ## Data Download
 All datasets are saved to JSON type files. This repository contains a sample of five hundred submissions, comments, and conversations data, along with an ID file extracted from the complete dataset.  Please contact the author (**kchen035@usc.edu**) to access the entire dataset.
