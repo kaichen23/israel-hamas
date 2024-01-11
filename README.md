@@ -34,16 +34,11 @@
 Each conversation includes one submission with comments. The attribute "comments_df" in the dataset includes all comments information related to the conversation.
 
 ## Data Download
-This repository contains a sample of five hundred submissions, comments, and conversation data, along with an ID file extracted from the complete dataset.  If you are interested in the complete dataset, please contact the author (**kchen035@usc.edu**) to access the full dataset.
+All datasets are saved to JSON type files. This repository contains a sample of five hundred submissions, comments, and conversations data, along with an ID file extracted from the complete dataset.  Please contact the author (**kchen035@usc.edu**) to access the entire dataset.
 
 ## Keyword Extraction
 ### Framework
-
-<object data="https://github.com/kaichen23/israel-hamas/blob/main/framework.pdf" type="application/pdf" width="100px" height="100px">
-    <embed src=".[pdf](https://github.com/kaichen23/israel-hamas/blob/main/framework.pdf)">
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
-    </embed>
-</object>
+![Framework](framework.jpg)
 
 
 ## Analysis
