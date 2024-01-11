@@ -1,11 +1,11 @@
 # Israel-Hamas Reddit Dataset
 ## Overview
 
-- Time: August 1 2023 to November 30 2023
+- Time: August 1 to November 30, 2023
 - Number of Submissions (posts): 412,258
 - Number of Comments: 8,089,095
 
-## Data
+## Data Download
 
 
 
