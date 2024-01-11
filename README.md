@@ -37,9 +37,10 @@ Each conversation includes one submission with comments. The attribute "comments
 All datasets are saved to JSON type files. This repository contains a sample of five hundred submissions, comments, and conversations data, along with an ID file extracted from the complete dataset.  Please contact the author (**kchen035@usc.edu**) to access the entire dataset.
 
 ## Keyword Extraction
-Framework
+
 <img src="framework.jpg" width="700">
-The framework of keyword extraction. Initially, we conduct a keyword search on Wikipedia using seed keywords to identify pages related to a specific topic. Subsequently, we employ GPT 4 to filter out pages with weak relevance. Each page is then sequentially segmented into multiple text chunks, enabling keyword extraction via GPT 4. Finally, we concatenate these raw keywords and rank them to form a refined set of keywords for subsequent data collection.\
+
+The framework of keyword extraction. Initially, we conduct a keyword search on Wikipedia using seed keywords to identify pages related to a specific topic. Subsequently, we employ GPT 4 to filter out pages with weak relevance. Each page is then sequentially segmented into multiple text chunks, enabling keyword extraction via GPT 4. Finally, we concatenate these raw keywords and rank them to form a refined set of keywords for subsequent data collection.
 
 The framework code and the Israel-Hamas Conflict keywords are uploaded to the repository.
 
