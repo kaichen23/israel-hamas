@@ -39,7 +39,7 @@ Each conversation includes one submission with comments.
 - zionism_antisemitism
 
 ## Data Download
-All datasets are saved to JSON type files. This repository contains a sample of five hundred submissions, comments, and conversations data, along with an ID file extracted from the complete dataset.  Please contact the author (**kchen035@usc.edu**) to access the entire dataset.
+All datasets are saved to JSON type files. This repository contains a sample of five hundred submissions, comments, and conversations data, along with an full id file extracted from the complete dataset.  Please contact the author (**kchen035@usc.edu**) to access the entire dataset.
 
 ## Keyword Extraction
 
