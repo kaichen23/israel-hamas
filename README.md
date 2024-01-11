@@ -39,8 +39,8 @@ This repository contains a sample of five hundred submissions, comments, and con
 ## Keyword Extraction
 ### Framework
 
-<object data=".pdf" type="application/pdf" width="700px" height="700px">
-    <embed src=".pdf">
+<object data="https://github.com/kaichen23/israel-hamas/blob/main/framework.pdf" type="application/pdf" width="100px" height="100px">
+    <embed src=".[pdf](https://github.com/kaichen23/israel-hamas/blob/main/framework.pdf)">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
     </embed>
 </object>
