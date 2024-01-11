@@ -38,7 +38,7 @@ All datasets are saved to JSON type files. This repository contains a sample of 
 
 ## Keyword Extraction
 ### Framework
-<img src="framework.jpg" width="500">
+<img src="framework.jpg" width="700">
 <!-- ![Framework](framework.jpg) -->
 
 
