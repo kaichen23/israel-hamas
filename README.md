@@ -1,4 +1,4 @@
-# Israel-Hamas Reddit Dataset
+# IsamasRed: Israel-Hamas Conflict Reddit Dataset
 ## Overview
 
 - Time: August 1 to November 30, 2023
@@ -38,7 +38,8 @@ All datasets are saved to JSON type files. This repository contains a sample of 
 
 ## Keyword Extraction
 ### Framework
-![Framework](framework.jpg)
+<img src="framework.jpg" width="200">
+<!-- ![Framework](framework.jpg) -->
 
 
 ## Analysis
