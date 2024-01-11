@@ -52,3 +52,5 @@ The framework code and the Israel-Hamas Conflict keywords are uploaded to the re
 ## Analysis
 emotion + moral foundation labeling dataset:
 https://drive.google.com/drive/folders/10DJGKjfBe1i_QPrHn1rtByXYgeeBMp4y?usp=sharing
+
+## Citation
