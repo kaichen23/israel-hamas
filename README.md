@@ -30,10 +30,9 @@
 - downs: number of downvotes
 - parent_id: last level comment or submission
 
-### Conversations
+### Attributes in Conversations
 Each conversation includes one submission with comments.
-
-**Attribute**
+(Same submission attributes are omitted)
 - comments_df: All comments information in the conversation
 - freepalestine_islamophobia: 0 or 1. 1 means this conversation is related to Free palestine/islamophobia topic.
 - zionism_antisemitism
