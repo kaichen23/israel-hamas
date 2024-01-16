@@ -43,7 +43,7 @@ All datasets are saved to JSON type files. This repository contains a sample of 
 
 ## Keyword Extraction
 
-<img src="framework.jpg" width="700">
+<img src="framework.png" width="700">
 
 The framework of keyword extraction. Initially, we conduct a keyword search on Wikipedia using seed keywords to identify pages related to a specific topic. Subsequently, we employ GPT 4 to filter out pages with weak relevance. Each page is then sequentially segmented into multiple text chunks, enabling keyword extraction via GPT 4. Finally, we concatenate these raw keywords and rank them to form a refined set of keywords for subsequent data collection.
 
