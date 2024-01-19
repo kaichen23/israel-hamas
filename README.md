@@ -54,3 +54,11 @@ emotion + moral foundation labeling dataset:
 https://drive.google.com/drive/folders/10DJGKjfBe1i_QPrHn1rtByXYgeeBMp4y?usp=sharing
 
 ## Citation
+'''
+@article{chen2024isamasred,
+  title={IsamasRed: A Public Dataset Tracking Reddit Discussions on Israel-Hamas Conflict},
+  author={Chen, Kai and He, Zihao and Burghardt, Keith and Zhang, Jingxin and Lerman, Kristina},
+  journal={arXiv preprint arXiv:2401.08202},
+  year={2024}
+}
+'''
